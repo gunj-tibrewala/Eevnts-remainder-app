@@ -14,7 +14,7 @@ This is the frontend repository for the Event Hive application, built for academ
 ## Tech Stack
 * HTML5
 * CSS3
-* Vanilla JavaScript
+*  JavaScript
 
 ## Setup Instructions
 1. Clone this repository:
